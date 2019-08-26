@@ -14,15 +14,15 @@ There is one KoBo Form for each group of the following accommodation/residence t
 
 One excel files for each Kobo. Each file has a table structure that is consistent with the data structure format (all tables need to have same structure so that data can be compiled into one table). There are nine (9) different tables that bring together the data from the KoBo form.
 
-Assessment data
-Risk Category 1 (one row per individual/family member)
-Risk Category 1 (one row per individual/family member)
-Risk Category 1 (one row per individual/family member)
-Risk Category 1 (one row per individual/family member)
-Risk Category 1 (one row per individual/family member)
-Risk Category 1 (one row per individual/family member)
-Support document(s) - hyperlink to the uploaded support documents. These files can be word documents, PDF files, scanned (jpg, png, etc.), and in some cases even an outlook email attached as a MSG file.
-Related Registration Group
+- Assessment data
+- Risk Category 1 (one row per individual/family member)
+- Risk Category 1 (one row per individual/family member)
+- Risk Category 1 (one row per individual/family member)
+- Risk Category 1 (one row per individual/family member)
+- Risk Category 1 (one row per individual/family member)
+- Risk Category 1 (one row per individual/family member)
+- Support document(s) - hyperlink to the uploaded support documents. These files can be word documents, PDF files, scanned (jpg, png, etc.), and in some cases even an outlook email attached as a MSG file.
+- Related Registration Group
 
 ### Main excel file
 
