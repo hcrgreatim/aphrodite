@@ -35,6 +35,6 @@ One database for all KoBo data, which pulls the data from the main excel file. A
 
 One database is for pulling the data from proGres. It contain all the individual data with the Individual ID and Group ID as in proGres based on which the data is matched with the information from the KoBo.
 
-## Main Access database a.k.a. Aphrodite
+## Aphrodite a.k.a. Main Access database
 
 This database pulls the data from the above mentioned databases and adds the information on the Committee Decisions and the exit compliance based on the exit decisions.
