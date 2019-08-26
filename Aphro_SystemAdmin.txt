@@ -1,3 +1,0 @@
-EagleManMiFi
-KalajaShkodra
-will this data upload to Git?
