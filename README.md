@@ -24,7 +24,7 @@ One excel files for each Kobo. Each file has a table structure that is consisten
 - Support document(s) - hyperlink to the uploaded support documents. These files can be word documents, PDF files, scanned (jpg, png, etc.), and in some cases even an outlook email attached as a MSG file.
 - Related Registration Group
 
-### Main excel file
+**Main excel file**
 
 The main excel file is the one that compiles all the data from the above described files into one files. Also it builds the relationship between the tables via the UUID of the "assessment data" table.
 
